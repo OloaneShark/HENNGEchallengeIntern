@@ -1,4 +1,11 @@
 
+
+#This is how to do mission 3 in case you didn't know
+#Just Ctrl+C Ctrl+V this entire thing
+#If you're using Go, then change line 27 from "python" to "golang"
+#Use everything to get what you want in life even this <3
+
+
 """
 HENNGE backend-recursion/004 challenge submitter.
 
