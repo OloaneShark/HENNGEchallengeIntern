@@ -3,7 +3,6 @@
 #Smaller companies like HENNGE say different versions aren't good enough
 #But I've seen the people they give internships to and I've talked to them and seen their code
 #It looks worse
-#They also only give internships to their friends mainly so it's just like everywhere else
 #They have them just create a twitter clone for about 5 weeks total as their internship
 
 
