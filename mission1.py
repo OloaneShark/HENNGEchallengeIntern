@@ -1,5 +1,4 @@
 
-#They said no so here's how to do their test in python
 #I would run this by people with more experience at companies that can afford to pay for internships
 #Smaller companies like HENNGE say different versions aren't good enough
 #But I've seen the people they give internships to and I've talked to them and seen their code
