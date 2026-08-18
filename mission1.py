@@ -1,11 +1,4 @@
 
-#I would run this by people with more experience at companies that can afford to pay for internships
-#Smaller companies like HENNGE say different versions aren't good enough
-#But I've seen the people they give internships to and I've talked to them and seen their code
-#It looks worse
-#They have them just create a twitter clone for about 5 weeks total as their internship
-
-
 def Yn_pow4(Yn_list):
     if not Yn_list:
         return 0
