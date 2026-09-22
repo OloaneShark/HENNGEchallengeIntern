@@ -1,3 +1,4 @@
+#This was made a while ago but I see that their challenge hasn't changed AT ALL
 
 def Yn_pow4(Yn_list):
     if not Yn_list:
